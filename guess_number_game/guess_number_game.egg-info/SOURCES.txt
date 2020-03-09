@@ -1,0 +1,10 @@
+README.md
+setup.py
+guess_number_game/__init__.py
+guess_number_game/__main__.py
+guess_number_game/guess_number.py
+guess_number_game/utils.py
+guess_number_game.egg-info/PKG-INFO
+guess_number_game.egg-info/SOURCES.txt
+guess_number_game.egg-info/dependency_links.txt
+guess_number_game.egg-info/top_level.txt
