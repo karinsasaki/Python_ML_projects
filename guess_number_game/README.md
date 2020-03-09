@@ -32,3 +32,6 @@ With this project I want to practice the following concepts:
 - to initialise the game, just type guess_number_game.play()
 - something else?
 
+
+# References
+[1] https://packaging.python.org/tutorials/packaging-projects/
